@@ -39,5 +39,6 @@ public class BMICalculator {
 
 	public void setObesity(double obesity) {
 		this.obesity = obesity;
+		abccsss
 	}
 }
